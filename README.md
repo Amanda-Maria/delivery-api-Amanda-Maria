@@ -35,5 +35,5 @@ Sistema de delivery desenvolvido com Spring Boot e Java 21.
 - Profile: development
 
 ##  Desenvolvedor
-Amanda Maria Leandro de Andrade - Arquitetura de sistemas API REST Full com Java Springboot (EXTESPDG-AJWW1-57958006)
+Amanda Maria Leandro de Andrade - Arquitetura de sistemas API REST Full com Java Springboot (EXTESPDG-AJWW1-57958006)\
 Desenvolvido com JDK 21 e Spring Boot 3.2.x
